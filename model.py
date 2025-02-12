@@ -1,3 +1,4 @@
+# This program is used to extract the region-of-interest on the image
 import cv2
 
 # Load an image 
